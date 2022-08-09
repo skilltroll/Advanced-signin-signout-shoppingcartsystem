@@ -1,4 +1,5 @@
 // source code from https://www.youtube.com/c/MrWebDesignerAnas : modified by itskilltroll
+db name : shop_db
 
 user table :
 
